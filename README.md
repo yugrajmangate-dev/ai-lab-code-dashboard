@@ -8,6 +8,7 @@ A source-first Next.js dashboard for browsing the supplied AI lab Python program
 - Search by verified program title, original filename, or source number.
 - Exact source viewer with preserved notebook code-cell order.
 - Copy and download actions that do not alter source text.
+- Separate Screenshot Programs section containing the supplied screenshot transcriptions.
 - Original `.py` and `.ipynb` files preserved in [`public/sources`](./public/sources).
 - Static-friendly deployment configuration for Vercel.
 
